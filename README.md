@@ -18,20 +18,27 @@
 
   ## Clean Code
   1. [indent depth 2 이내 규칙에 대해서 어떻게 생각하나요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/8)
+  2. [네이밍은 어떻게 하는게 좋을까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/20)
 
   ## OOP
   1. [메서드 선언 방식에 대하여 언제 어떤 방식으로 사용하는게 좋을까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/6)
   2. [원시값 포장: 우리는 '왜' 그리고 '언제' 해야 할까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/14)
   3. [불변 객체는 언제 만들어야할까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/15)
-  4. [상수의 위치와 접근 제어자
-](https://github.com/8th-woowacourse-study/level-wiki/discussions/17)
+  4. [상수의 위치와 접근 제어자](https://github.com/8th-woowacourse-study/level-wiki/discussions/17)
+  5. [상태를 변경하는 메서드가 결과를 반환해도 될까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/22)
+
   ## Design & Architecture
   1. [record를 VO로 사용해도 될까? 혹은 완전한 대체제가 될 수 있을까?](https://github.com/8th-woowacourse-study/level-wiki/discussions/9)
+  2. [Service는 Stateless해야 한다 -- 그 의미는 무엇일까?](https://github.com/8th-woowacourse-study/level-wiki/discussions/19)
+  3. [상태 패턴: 객체의 자율성과 전이 책임의 소재](https://github.com/8th-woowacourse-study/level-wiki/discussions/21)
 
   ## Testing
   1. [JDBC의 로직 테스트를 어떻게 하는게 좋을까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/18)
   2. [Mock은 언제, 어떻게 사용해야할까?](https://github.com/8th-woowacourse-study/level-wiki/discussions/10)
   3. [테스트 더블에 대하여](https://github.com/8th-woowacourse-study/level-wiki/discussions/16)
+
+  ## JDBC
+  1. [Statement와 PreparedStatement의 차이](https://github.com/8th-woowacourse-study/level-wiki/discussions/23)
   
 </details>
 
