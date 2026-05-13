@@ -45,10 +45,20 @@
 <details>
   <summary><h1>Level 2</h1></summary>
 
-  ## 카테고리
+  ## Java
   
-  1. [내용](링크)
-  2. [내용](링크)
+  1. [DTO는 계층 간 데이터 전달 객체일 뿐인가, 비즈니스 의미를 가져도 되는가?](https://github.com/8th-woowacourse-study/level-wiki/discussions/31)
+  2. [어노테이션(@)은 무엇인가?](https://github.com/8th-woowacourse-study/level-wiki/discussions/32)
+
+  ## Testing
+  
+  1. [Mocking이 나쁜 코드의 신호라는 말은 어떤 의미일까?](https://github.com/8th-woowacourse-study/level-wiki/discussions/33)
+
+  ## Spring
+  
+  1. [생성된 식별자 조회: KeyHolder vs SimpleJdbcInsert](https://github.com/8th-woowacourse-study/level-wiki/discussions/29)
+  2. [DAO의 책임 범위: ReservationDao가 JOIN을 해야 할까, Service가 조립해야 할까?](https://github.com/8th-woowacourse-study/level-wiki/discussions/30)
+
 </details>
 
 <details>
