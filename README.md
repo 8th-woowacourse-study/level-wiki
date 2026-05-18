@@ -50,14 +50,27 @@
   1. [DTO는 계층 간 데이터 전달 객체일 뿐인가, 비즈니스 의미를 가져도 되는가?](https://github.com/8th-woowacourse-study/level-wiki/discussions/31)
   2. [어노테이션(@)은 무엇인가?](https://github.com/8th-woowacourse-study/level-wiki/discussions/32)
 
+  ## Design & Architecture
+
+  1. [없는 데이터 삭제 시 204 vs 404](https://github.com/8th-woowacourse-study/level-wiki/discussions/34)
+  2. [패키지 분리는 어떻게 할까?](https://github.com/8th-woowacourse-study/level-wiki/discussions/35)
+
   ## Testing
   
   1. [Mocking이 나쁜 코드의 신호라는 말은 어떤 의미일까?](https://github.com/8th-woowacourse-study/level-wiki/discussions/33)
+  2. [@DirtiesContext의 편리함과 느린 테스트 사이의 선택](https://github.com/8th-woowacourse-study/level-wiki/discussions/37)
 
+  ## Jdbc
+
+  1. [SimpleJdbcInsert + ParameterSource가 파라미터 이름을 어떻게 컬럼명으로 매핑할까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/36)
+  
   ## Spring
   
   1. [생성된 식별자 조회: KeyHolder vs SimpleJdbcInsert](https://github.com/8th-woowacourse-study/level-wiki/discussions/29)
   2. [DAO의 책임 범위: ReservationDao가 JOIN을 해야 할까, Service가 조립해야 할까?](https://github.com/8th-woowacourse-study/level-wiki/discussions/30)
+  3. [@Transactional, 어디까지 잡아야 할까?](https://github.com/8th-woowacourse-study/level-wiki/discussions/38)
+ 
+
 
 </details>
 
