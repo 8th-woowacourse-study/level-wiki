@@ -62,6 +62,8 @@
   2. [패키지 분리는 어떻게 할까? #35](https://github.com/8th-woowacourse-study/level-wiki/discussions/35)
   3. [쿼리 한 번은 실제로 얼마나 비쌀까요? #39](https://github.com/8th-woowacourse-study/level-wiki/discussions/39)
   4. [이미 언체크 예외인 Spring 데이터 예외, 어디서 잡아야 할까? #43](https://github.com/8th-woowacourse-study/level-wiki/discussions/43)
+  5. [커스텀 예외의 본질은 메시지 관리일까, 실패 타입 표현일까? #47](https://github.com/8th-woowacourse-study/level-wiki/discussions/47)
+  6. [입력값 검증은 어디서 해야할까? Controller vs Domain #48](https://github.com/8th-woowacourse-study/level-wiki/discussions/48)
 
   ## Testing
   
@@ -78,10 +80,13 @@
   2. [DAO의 책임 범위: ReservationDao가 JOIN을 해야 할까, Service가 조립해야 할까? #30](https://github.com/8th-woowacourse-study/level-wiki/discussions/30)
   3. [@Transactional, 어디까지 잡아야 할까? #38](https://github.com/8th-woowacourse-study/level-wiki/discussions/38)
   4. [Spring MVC 요청 흐름 #40](https://github.com/8th-woowacourse-study/level-wiki/discussions/40)
+  5. [Spring에서 Controller는 실제 Service를 모른다!? #45](https://github.com/8th-woowacourse-study/level-wiki/discussions/45)
+  6. [Entity를 불변 객체로 만들어야 할까요? #46](https://github.com/8th-woowacourse-study/level-wiki/discussions/46)
 
   ## Database
 
   1. [UK, FK를 DB에서 설정하지 않을 때의 장단점과 설정하는 기준 #41](https://github.com/8th-woowacourse-study/level-wiki/discussions/41)
+  2. [HardDelete vs SoftDelete 그 선택의 기준은? #44](https://github.com/8th-woowacourse-study/level-wiki/discussions/44)
  
 </details>
 
