@@ -1,7 +1,7 @@
 # level-wiki
 레벨별 주제 토론
 
-<details open>
+<details>
   <summary><h1>Level 1</h1></summary>
 
   ## Java
@@ -47,7 +47,7 @@
   
 </details>
 
-<details>
+<details open>
   <summary><h1>Level 2</h1></summary>
 
   ## Java
