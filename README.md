@@ -20,6 +20,7 @@
 
   1. [indent depth 2 이내 규칙에 대해서 어떻게 생각하나요? #8](https://github.com/8th-woowacourse-study/level-wiki/discussions/8)
   2. [네이밍은 어떻게 하는게 좋을까요? #20](https://github.com/8th-woowacourse-study/level-wiki/discussions/20)
+  3. [객체 생성 전 검증과 생성 후 검증 중 무엇이 자연스러운가 #63](https://github.com/8th-woowacourse-study/level-wiki/discussions/63)
 
   ## OOP
 
@@ -40,6 +41,7 @@
   1. [JDBC의 로직 테스트를 어떻게 하는게 좋을까요? #18](https://github.com/8th-woowacourse-study/level-wiki/discussions/18)
   2. [Mock은 언제, 어떻게 사용해야할까? #10](https://github.com/8th-woowacourse-study/level-wiki/discussions/10)
   3. [테스트 더블에 대하여 #16](https://github.com/8th-woowacourse-study/level-wiki/discussions/16)
+  4. [Spring 테스트는 어디까지 띄워야 할까? (@SpringBootTest, Slice Test, MockMvc, RestAssured) #62](https://github.com/8th-woowacourse-study/level-wiki/discussions/62)
 
   ## JDBC
 
@@ -64,6 +66,7 @@
   4. [이미 언체크 예외인 Spring 데이터 예외, 어디서 잡아야 할까? #43](https://github.com/8th-woowacourse-study/level-wiki/discussions/43)
   5. [커스텀 예외의 본질은 메시지 관리일까, 실패 타입 표현일까? #47](https://github.com/8th-woowacourse-study/level-wiki/discussions/47)
   6. [입력값 검증은 어디서 해야할까? Controller vs Domain #48](https://github.com/8th-woowacourse-study/level-wiki/discussions/48)
+  7. [예약 취소 배치(Scheduler)와 실시간 요청 간의 동시성 이슈 및 해결 방안 #60](https://github.com/8th-woowacourse-study/level-wiki/discussions/60)
 
   ## Testing
   
@@ -82,6 +85,8 @@
   4. [Spring MVC 요청 흐름 #40](https://github.com/8th-woowacourse-study/level-wiki/discussions/40)
   5. [Spring에서 Controller는 실제 Service를 모른다!? #45](https://github.com/8th-woowacourse-study/level-wiki/discussions/45)
   6. [Entity를 불변 객체로 만들어야 할까요? #46](https://github.com/8th-woowacourse-study/level-wiki/discussions/46)
+  7. [FeignClient vs RestClient #61](https://github.com/8th-woowacourse-study/level-wiki/discussions/61)
+  8. [요청마다 인증/인가 처리 어떻게 하시나요? #59](https://github.com/8th-woowacourse-study/level-wiki/discussions/59)
 
   ## Database
 
