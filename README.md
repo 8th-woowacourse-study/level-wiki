@@ -67,6 +67,11 @@
   5. [커스텀 예외의 본질은 메시지 관리일까, 실패 타입 표현일까? #47](https://github.com/8th-woowacourse-study/level-wiki/discussions/47)
   6. [입력값 검증은 어디서 해야할까? Controller vs Domain #48](https://github.com/8th-woowacourse-study/level-wiki/discussions/48)
   7. [예약 취소 배치(Scheduler)와 실시간 요청 간의 동시성 이슈 및 해결 방안 #60](https://github.com/8th-woowacourse-study/level-wiki/discussions/60)
+  8. [외부 결제 승인은 성공했는데 DB 반영이 실패하면, 우리는 어떤 상태로 수렴시켜야 할까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/67)
+  9. [동기 LLM 호출을 트랜잭션 안에서 처리해도 되는가](https://github.com/8th-woowacourse-study/level-wiki/discussions/68)
+  10. [Timeout과 Rate Limit 값은 어떤 관측 지표를 보고 조정해야 할까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/69)
+  11. [필요한 데이터가 여러가지일 때, API를 여러 번 호출할지, 한 번에 호출할지?](https://github.com/8th-woowacourse-study/level-wiki/discussions/70)
+  12. [도메인 엔티티와 영속성 엔티티 분리](https://github.com/8th-woowacourse-study/level-wiki/discussions/71)
 
   ## Testing
   
@@ -92,6 +97,13 @@
 
   1. [UK, FK를 DB에서 설정하지 않을 때의 장단점과 설정하는 기준 #41](https://github.com/8th-woowacourse-study/level-wiki/discussions/41)
   2. [HardDelete vs SoftDelete 그 선택의 기준은? #44](https://github.com/8th-woowacourse-study/level-wiki/discussions/44)
+  3. [Redis는 왜 싱글 스레드를 택했을까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/66)
+  4. [서비스에서 중복 검증을 하는데 DB UNIQUE 제약이 필요할까?](https://github.com/8th-woowacourse-study/level-wiki/discussions/72)
+
+  ## AI
+  1. [효율적인 AI 컨텍스트 관리는 어떻게 하면 좋을까?](https://github.com/8th-woowacourse-study/level-wiki/discussions/64)
+  2. [AI 성공 기준을 어떻게 잡아야 할까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/65)
+  3. [시장에서는 왜 다중 에이전트 시스템(MAS)이 채택되었을까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/73)
  
 </details>
 
