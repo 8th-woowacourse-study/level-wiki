@@ -110,11 +110,15 @@
 <details>
   <summary><h1>Level 3</h1></summary>
 
-  ## 카테고리
-  
-  1. [내용](링크)
-  2. [내용](링크)
+  ## Design & Architecture
+  1. [서버 및 데이터베이스의 기준 시간을 KST와 UTC 중 무엇으로 운영할 것인가 #77](https://github.com/8th-woowacourse-study/level-wiki/discussions/77)
 
+  ## AI
+  1. [동작하지만 이해하지 못한 코드는 내 코드일까? #74](https://github.com/8th-woowacourse-study/level-wiki/discussions/74)
+  2. [AI가 짠 코드, 이해했다고 말할 수 있는 기준은 무엇일까? #75](https://github.com/8th-woowacourse-study/level-wiki/discussions/75)
+  3. [AI가 SQL과 매핑을 대신 해주는 시대에도 ORM이 필요한가? #76](https://github.com/8th-woowacourse-study/level-wiki/discussions/76)
+
+  
 </details>
 
 <details>
