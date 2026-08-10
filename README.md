@@ -111,13 +111,46 @@
   <summary><h1>Level 3</h1></summary>
 
   ## Design & Architecture
-  1. [서버 및 데이터베이스의 기준 시간을 KST와 UTC 중 무엇으로 운영할 것인가 #77](https://github.com/8th-woowacourse-study/level-wiki/discussions/77)
+  1. [Message Queue 선택 기준 #80](https://github.com/8th-woowacourse-study/level-wiki/discussions/80)
+  2. [서버 및 데이터베이스의 기준 시간을 KST와 UTC 중 무엇으로 운영할 것인가 #77](https://github.com/8th-woowacourse-study/level-wiki/discussions/77)
+  3. [왜 클린 아키텍처를 이야기할까? #82](https://github.com/8th-woowacourse-study/level-wiki/discussions/82)
 
   ## AI
-  1. [동작하지만 이해하지 못한 코드는 내 코드일까? #74](https://github.com/8th-woowacourse-study/level-wiki/discussions/74)
-  2. [AI가 짠 코드, 이해했다고 말할 수 있는 기준은 무엇일까? #75](https://github.com/8th-woowacourse-study/level-wiki/discussions/75)
-  3. [AI가 SQL과 매핑을 대신 해주는 시대에도 ORM이 필요한가? #76](https://github.com/8th-woowacourse-study/level-wiki/discussions/76)
 
+  1. [시장에서는 왜 다중 에이전트 시스템(MAS)이 채택되었을까요? #73](https://github.com/8th-woowacourse-study/level-wiki/discussions/73)
+  2. [동작하지만 이해하지 못한 코드는 내 코드일까? #74](https://github.com/8th-woowacourse-study/level-wiki/discussions/74)
+  3. [AI가 짠 코드, 이해했다고 말할 수 있는 기준은 무엇일까? #75](https://github.com/8th-woowacourse-study/level-wiki/discussions/75)
+  4. [AI가 SQL과 매핑을 대신 해주는 시대에도 ORM이 필요한가? #76](https://github.com/8th-woowacourse-study/level-wiki/discussions/76)
+  5. [사람에게 좋은 코드가 AI에게도 좋은 코드일까? #83
+](https://github.com/8th-woowacourse-study/level-wiki/discussions/83)
+
+## OS
+
+  1. [OS 프로세스 메모리 구조(Stack & Heap)와 스레드 간 메모리 공유 #91](https://github.com/8th-woowacourse-study/level-wiki/discussions/91)
+
+## Design & Architecture
+  1. [캐시는 언제, 왜 사용해야 할까? #88](https://github.com/8th-woowacourse-study/level-wiki/discussions/88)
+  2. [도커, 도커 컴포즈 알고 써보자~ #89](https://github.com/8th-woowacourse-study/level-wiki/discussions/89)
+
+## FinOps
+
+  1. [우리에게 제공된 AWS 크레딧은 어느정도 자원일까? #90](https://github.com/8th-woowacourse-study/level-wiki/discussions/90)
+
+## Network
+
+  1. [HTTP가 HTTPS로 전환되는 과정 #78](https://github.com/8th-woowacourse-study/level-wiki/discussions/78)
+  2. ['동기/비동기'와 '블로킹/논블로킹'의 차이, 확실히 구별하고 계신가요? #81](https://github.com/8th-woowacourse-study/level-wiki/discussions/81)
+  3. [로드 밸런싱은 왜 해야할까? #86](https://github.com/8th-woowacourse-study/level-wiki/discussions/86)
+
+## Database
+
+  1. [데이터베이스에서 데드락이 발생하면 어떻게 처리할까? #79](https://github.com/8th-woowacourse-study/level-wiki/discussions/79)
+  2. [데이터베이스 락의 종류와 동작 방식 #85](https://github.com/8th-woowacourse-study/level-wiki/discussions/85)
+  3. [Uber가 postgresql에서 mysql로 바꾼 이유 #87](https://github.com/8th-woowacourse-study/level-wiki/discussions/87)
+  4. [DB 인덱스는 어떻게 동작할까? (B-Tree 탐색 원리와 올바른 활용법) #84](https://github.com/8th-woowacourse-study/level-wiki/discussions/84)
+
+## Java
+  1. [JDK 버전 선택 기준 #92](https://github.com/8th-woowacourse-study/level-wiki/discussions/92)
   
 </details>
 
