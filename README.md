@@ -97,13 +97,13 @@
 
   1. [UK, FK를 DB에서 설정하지 않을 때의 장단점과 설정하는 기준 #41](https://github.com/8th-woowacourse-study/level-wiki/discussions/41)
   2. [HardDelete vs SoftDelete 그 선택의 기준은? #44](https://github.com/8th-woowacourse-study/level-wiki/discussions/44)
-  3. [Redis는 왜 싱글 스레드를 택했을까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/66)
-  4. [서비스에서 중복 검증을 하는데 DB UNIQUE 제약이 필요할까?](https://github.com/8th-woowacourse-study/level-wiki/discussions/72)
+  3. [Redis는 왜 싱글 스레드를 택했을까요? #66](https://github.com/8th-woowacourse-study/level-wiki/discussions/66)
+  4. [서비스에서 중복 검증을 하는데 DB UNIQUE 제약이 필요할까? #72](https://github.com/8th-woowacourse-study/level-wiki/discussions/72)
 
   ## AI
-  1. [효율적인 AI 컨텍스트 관리는 어떻게 하면 좋을까?](https://github.com/8th-woowacourse-study/level-wiki/discussions/64)
-  2. [AI 성공 기준을 어떻게 잡아야 할까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/65)
-  3. [시장에서는 왜 다중 에이전트 시스템(MAS)이 채택되었을까요?](https://github.com/8th-woowacourse-study/level-wiki/discussions/73)
+  1. [효율적인 AI 컨텍스트 관리는 어떻게 하면 좋을까? #64](https://github.com/8th-woowacourse-study/level-wiki/discussions/64)
+  2. [AI 성공 기준을 어떻게 잡아야 할까요? #65](https://github.com/8th-woowacourse-study/level-wiki/discussions/65)
+  3. [시장에서는 왜 다중 에이전트 시스템(MAS)이 채택되었을까요? #73](https://github.com/8th-woowacourse-study/level-wiki/discussions/73)
  
 </details>
 
@@ -114,6 +114,7 @@
   1. [Message Queue 선택 기준 #80](https://github.com/8th-woowacourse-study/level-wiki/discussions/80)
   2. [서버 및 데이터베이스의 기준 시간을 KST와 UTC 중 무엇으로 운영할 것인가 #77](https://github.com/8th-woowacourse-study/level-wiki/discussions/77)
   3. [왜 클린 아키텍처를 이야기할까? #82](https://github.com/8th-woowacourse-study/level-wiki/discussions/82)
+  4. [동기 통신 방법에는 뭐가 있을까요? #99](https://github.com/8th-woowacourse-study/level-wiki/discussions/99)
 
   ## AI
 
@@ -121,8 +122,7 @@
   2. [동작하지만 이해하지 못한 코드는 내 코드일까? #74](https://github.com/8th-woowacourse-study/level-wiki/discussions/74)
   3. [AI가 짠 코드, 이해했다고 말할 수 있는 기준은 무엇일까? #75](https://github.com/8th-woowacourse-study/level-wiki/discussions/75)
   4. [AI가 SQL과 매핑을 대신 해주는 시대에도 ORM이 필요한가? #76](https://github.com/8th-woowacourse-study/level-wiki/discussions/76)
-  5. [사람에게 좋은 코드가 AI에게도 좋은 코드일까? #83
-](https://github.com/8th-woowacourse-study/level-wiki/discussions/83)
+  5. [사람에게 좋은 코드가 AI에게도 좋은 코드일까? #83](https://github.com/8th-woowacourse-study/level-wiki/discussions/83)
 
 ## OS
 
@@ -131,6 +131,7 @@
 ## Design & Architecture
   1. [캐시는 언제, 왜 사용해야 할까? #88](https://github.com/8th-woowacourse-study/level-wiki/discussions/88)
   2. [도커, 도커 컴포즈 알고 써보자~ #89](https://github.com/8th-woowacourse-study/level-wiki/discussions/89)
+  3. [Web Server와 Web Application Server(WAS)의 차이점은 무엇인가요? #94](https://github.com/8th-woowacourse-study/level-wiki/discussions/94)
 
 ## FinOps
 
@@ -141,6 +142,8 @@
   1. [HTTP가 HTTPS로 전환되는 과정 #78](https://github.com/8th-woowacourse-study/level-wiki/discussions/78)
   2. ['동기/비동기'와 '블로킹/논블로킹'의 차이, 확실히 구별하고 계신가요? #81](https://github.com/8th-woowacourse-study/level-wiki/discussions/81)
   3. [로드 밸런싱은 왜 해야할까? #86](https://github.com/8th-woowacourse-study/level-wiki/discussions/86)
+  4. [AWS 인프라 되짚어보기 (요청 흐름부터 배포까지) #95](https://github.com/8th-woowacourse-study/level-wiki/discussions/95)
+  5. [HTTP/1.1과 HTTP/2는 뭐가 다를까?⁠ #96](https://github.com/8th-woowacourse-study/level-wiki/discussions/96)
 
 ## Database
 
@@ -148,9 +151,19 @@
   2. [데이터베이스 락의 종류와 동작 방식 #85](https://github.com/8th-woowacourse-study/level-wiki/discussions/85)
   3. [Uber가 postgresql에서 mysql로 바꾼 이유 #87](https://github.com/8th-woowacourse-study/level-wiki/discussions/87)
   4. [DB 인덱스는 어떻게 동작할까? (B-Tree 탐색 원리와 올바른 활용법) #84](https://github.com/8th-woowacourse-study/level-wiki/discussions/84)
+  5. [Database Migration은 왜 필요할까? #93](https://github.com/8th-woowacourse-study/level-wiki/discussions/93)
+  6. [캐시의 종류와 동작 원리에 대해 알아보자~ #98](https://github.com/8th-woowacourse-study/level-wiki/discussions/98)
+  7. [데이터가 많아지면 인덱스만으로 충분할까? (인덱싱과 샤딩) #102](https://github.com/8th-woowacourse-study/level-wiki/discussions/102)
 
 ## Java
   1. [JDK 버전 선택 기준 #92](https://github.com/8th-woowacourse-study/level-wiki/discussions/92)
+
+## Security
+  1. [OAuth와 OAuth2.0은 뭐가 다를까? #97](https://github.com/8th-woowacourse-study/level-wiki/discussions/97)
+  2. [Spring Security를 꼭 사용해야 할까요? #101](https://github.com/8th-woowacourse-study/level-wiki/discussions/101)
+
+## Data Structure
+  1. [해시의 충돌문제는 어떻게 해결할까? #100](https://github.com/8th-woowacourse-study/level-wiki/discussions/100)
   
 </details>
 
